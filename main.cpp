@@ -1,7 +1,6 @@
 #include <SDL2/SDL.h>
 #include <stdio.h>
 
-#define SDL_MAIN_HANDLED
 #define SCREEN_WIDTH 1280
 #define SCREEN_HEIGHT 720
 
